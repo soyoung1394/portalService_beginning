@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd48753-3542-4181-8445-d1381df91ebd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Algorithm.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/usdrdao/kr/ac/jejunu/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/usdrdao/kr/ac/jejunu/UserDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/test/usdrdao/kr/ac/jejunu/UserDaoTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/UserDao.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,9 +41,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="538">
-              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <caret line="24" column="67" lean-forward="false" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
               <folding>
-                <marker date="1521185191450" expanded="true" signature="489:524" ph="select * fro... userinfo" />
+                <marker date="1521186595400" expanded="true" signature="489:524" ph="select * fro... userinfo" />
               </folding>
             </state>
           </provider>
@@ -96,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/UserDao.java" />
         <option value="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/UserDaoTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserDao.java" />
       </list>
     </option>
   </component>
@@ -377,7 +374,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8471000" />
+    <option name="totallyTimeSpent" value="8709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -615,7 +612,7 @@
         <state relative-caret-position="56">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <marker date="1521185191450" expanded="true" signature="489:524" ph="select * fro... userinfo" />
+            <marker date="1521186595400" expanded="true" signature="489:524" ph="select * fro... userinfo" />
           </folding>
         </state>
       </provider>
@@ -653,9 +650,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <caret line="24" column="67" lean-forward="false" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
           <folding>
-            <marker date="1521185191450" expanded="true" signature="489:524" ph="select * fro... userinfo" />
+            <marker date="1521186595400" expanded="true" signature="489:524" ph="select * fro... userinfo" />
           </folding>
         </state>
       </provider>

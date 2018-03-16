@@ -22,7 +22,7 @@ public class UserDao {
         user.setPassword(resultSet.getString("password"));
         //자원을 해지하고
         resultSet.close();
-        preparedStatement.close();
+        preparedStatement.close();C:\Users\SY\IdeaProjects\untitled
         connection.close();
         //결과를 리턴한다.
         return user;
